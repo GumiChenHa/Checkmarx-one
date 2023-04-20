@@ -16,7 +16,7 @@ jobs:
         with:
           base_uri: https://eu.ast.checkmarx.net/
           cx_tenant: cx_ps_tt_cristina_goncalves
-          cx_client_id: CX_CLIENT_ID
+          cx_client_id: Gumi - GitHub
           cx_client_secret: lZLrVlXy6r24uLf8BAzfdFcymceU3xoF
 
 
